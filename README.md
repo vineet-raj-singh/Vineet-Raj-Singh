@@ -1,92 +1,94 @@
 <h1 align="center">Hi 👋, I'm Vineet Raj Singh</h1>
 
-<h3 align="center">🎓 B.Tech IT Student | 💻 Full Stack Developer | 📊 Data Analytics Enthusiast | 🤖 AI/ML Learner</h3>
+<h3 align="center">A passionate Full Stack Developer & Data Analyst from India 🇮🇳</h3>
+
+<p align="center">
+  <a href="https://github.com/vineet-raj-singh">
+    <img src="https://img.shields.io/badge/GitHub-vineet--raj--singh-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vineetrajsingh/">
+    <img src="https://img.shields.io/badge/LinkedIn-Vineet%20Raj%20Singh-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:dev.vineetrajsingh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 I'm a **B.Tech Information Technology student** from India.
-- 💻 I enjoy building **Full Stack web applications** using the MERN stack.
-- 📊 Currently exploring **Data Analytics and Data Visualization**.
-- 🤖 Learning **AI/ML** and expanding my knowledge of Python.
-- 🗄️ Working with **SQL, PostgreSQL and MongoDB**.
-- 🧠 Improving my **DSA and problem-solving skills**.
-- 🚀 I love turning ideas into practical projects.
-- 🤝 Open to collaborating on **Web Development, Data Analytics and AI projects**.
+- 🎓 B.Tech Information Technology student at **BP Poddar Institute of Management & Technology, Kolkata**
+- 💻 Full Stack Developer with **MERN Stack** experience
+- 📊 Currently focusing on **Data Analytics & AI/ML**
+- 🐍 Learning and practicing **Python, SQL, Pandas & Data Visualization**
+- 🧠 Building strong foundations in **DSA**
+- 🚀 Interested in building real-world software, analytics and AI projects
+- 🤝 Open to collaborating on **Full Stack, Data Analytics & AI projects**
+- 📍 India 🇮🇳
 
 ---
 
-## 🌱 Currently Learning
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,javascript,python" alt="Programming Languages"/>
+</p>
+
+### 🌐 Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind" alt="Frontend Technologies"/>
+</p>
+
+### ⚙️ Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Technologies"/>
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" alt="Databases"/>
+</p>
+
+### 📊 Data Analytics & AI/ML
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" height="48" alt="Seaborn"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="Scikit-learn"/>
+</p>
+
+### 🔧 Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode" alt="Tools"/>
+</p>
+
+---
+
+## 📚 Currently Learning
 
 ```text
-📊 Data Analytics
-🐍 Python
-🗃️ SQL & PostgreSQL
-🤖 AI / Machine Learning
-🧠 Data Structures & Algorithms
-📈 Power BI
+Python          ███████████████░░░░░  75%
+SQL             ███████████████░░░░░  75%
+Data Analytics  █████████████░░░░░░░  65%
+AI / ML         ██████████░░░░░░░░░░  50%
+DSA             ███████░░░░░░░░░░░░░  35%
 ```
 
 ---
 
-## 💻 Tech Stack
-
-### Programming Languages
-
-<p align="left">
-<a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/></a>
-<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/></a>
-</p>
-
-### Frontend Development
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/></a>
-<a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/></a>
-<a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"/></a>
-<a href="https://redux.js.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="45" height="45" alt="Redux"/></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS"/></a>
-</p>
-
-### Backend Development
-
-<p align="left">
-<a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" alt="Node.js"/></a>
-<a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" height="45" alt="Express.js"/></a>
-</p>
-
-### Databases
-
-<p align="left">
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" alt="MongoDB"/></a>
-<a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45" alt="PostgreSQL"/></a>
-</p>
-
-### Data Analytics & AI/ML
-
-<p align="left">
-<a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/></a>
-<a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" height="45" alt="Seaborn"/></a>
-<a href="https://scikit-learn.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" alt="Scikit-learn"/></a>
-</p>
-
-### Tools
-
-<p align="left">
-<a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/></a>
-<a href="https://www.postman.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45" height="45" alt="Postman"/></a>
-<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/></a>
-</p>
-
----
-
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vineet-raj-singh&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineet-raj-singh&layout=compact&hide_border=true&langs_count=8" height="180"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vineet-raj-singh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineet-raj-singh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 </p>
 
 ---
@@ -94,15 +96,7 @@
 ## 🔥 Contribution Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vineet-raj-singh&hide_border=true" alt="GitHub Contribution Streak"/>
-</p>
-
----
-
-## 📈 Contribution Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vineet-raj-singh&hide_border=true&area=true" alt="Contribution Activity Graph"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vineet-raj-singh&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 </p>
 
 ---
@@ -110,104 +104,98 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## 📌 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+### 🍔 Food Delivery Business Analytics — Power BI
 
-### 📊 Food Delivery Business Analytics
+**Tech:** Power BI • Excel • Data Analytics
 
-Data analytics project focused on analyzing food delivery business performance and creating insights through data visualization.
+- Analyzed food delivery business data
+- Created interactive dashboards and KPIs
+- Explored sales, revenue, customer and order trends
+- Built visual insights for business decision-making
 
-**Tech:** Python • Pandas • Power BI • Data Analytics
+🔗 **Repository:**  
+https://github.com/vineet-raj-singh/Food-Delivery-Business-Analytics-PowerBI
 
-</td>
-
-<td width="50%">
+---
 
 ### 🎵 Spotify Clone
 
-A frontend project inspired by the Spotify music streaming interface.
-
 **Tech:** HTML • CSS • JavaScript
 
-</td>
-</tr>
+- Spotify-inspired music player interface
+- Responsive frontend design
+- Interactive music controls and UI components
 
-<tr>
-<td width="50%">
+---
 
 ### 🎮 TikTok Game
 
-Interactive browser-based game project built to practice JavaScript logic and DOM manipulation.
-
 **Tech:** HTML • CSS • JavaScript
 
-</td>
+- Interactive browser-based game
+- JavaScript-based game logic
+- User interaction and score functionality
 
-<td width="50%">
+---
 
 ### ✊ Rock Paper Scissors
 
-A simple interactive game developed to strengthen JavaScript fundamentals and user interaction.
-
 **Tech:** HTML • CSS • JavaScript
 
-</td>
-</tr>
-</table>
+- Interactive browser game
+- Randomized computer moves
+- Score tracking and dynamic UI
+
+---
+
+## 📈 GitHub Highlights
 
 <p align="center">
-<a href="https://github.com/vineet-raj-singh?tab=repositories">
-<img src="https://img.shields.io/badge/View%20All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Projects"/>
-</a>
+
+  <img src="https://img.shields.io/github/commit-activity/y/vineet-raj-singh/vineet-raj-singh?style=for-the-badge&label=Yearly%20Commits" alt="Yearly Commits"/>
+
+  <img src="https://img.shields.io/github/stars/vineet-raj-singh?style=for-the-badge&label=Total%20Stars" alt="Total Stars"/>
+
+  <img src="https://img.shields.io/github/last-commit/vineet-raj-singh/Food-Delivery-Business-Analytics-PowerBI?style=for-the-badge&label=Latest%20Project%20Commit" alt="Latest Commit"/>
+
 </p>
 
 ---
 
-# 📌 GitHub Highlights
+## 💻 LeetCode
 
 <p align="center">
-<img src="https://img.shields.io/github/commit-activity/y/vineet-raj-singh?style=for-the-badge&logo=github" alt="Commit Activity"/>
-<img src="https://img.shields.io/github/stars/vineet-raj-singh?style=for-the-badge&logo=github" alt="Stars"/>
-<img src="https://img.shields.io/github/followers/vineet-raj-singh?style=for-the-badge&logo=github" alt="Followers"/>
+  <a href="https://leetcode.com/u/Vineetsingh777/">
+    <img src="https://leetcard.jacoblin.cool/Vineetsingh777?theme=dark&font=baloo&ext=heatmap" alt="Vineet's LeetCode Stats"/>
+  </a>
 </p>
 
 ---
 
-# 💻 LeetCode
-
-<p align="center">
-<a href="https://leetcode.com/vineetsingh777/">
-<img src="https://leetcard.jacoblin.cool/vineetsingh777?theme=dark&font=baloo&ext=heatmap" alt="Vineet's LeetCode Stats"/>
-</a>
-</p>
-
----
-
-# 📫 Connect With Me
+## 🤝 Let's Connect
 
 <p align="center">
 
-<a href="https://github.com/vineet-raj-singh" target="_blank">
+<a href="https://github.com/vineet-raj-singh">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<a href="https://www.linkedin.com/in/vineetrajsingh/" target="_blank">
+<a href="https://www.linkedin.com/in/vineetrajsingh/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="https://www.instagram.com/vineet.singh.rana/" target="_blank">
+<a href="https://www.instagram.com/vineet.singh.rana/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
-<a href="https://leetcode.com/vineetsingh777/" target="_blank">
+<a href="https://leetcode.com/u/Vineetsingh777/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 
@@ -219,10 +207,12 @@ A simple interactive game developed to strengthen JavaScript fundamentals and us
 
 ---
 
+## ⭐ Thanks for Visiting!
+
 <p align="center">
-<b>✨ Building. Learning. Improving. Every day.</b>
+  <b>💻 Code • 📊 Analyze • 🤖 Build • 🚀 Grow</b>
 </p>
 
 <p align="center">
-⭐ If you find my projects useful, consider giving them a star!
+  If you like my projects, feel free to ⭐ the repositories!
 </p>
